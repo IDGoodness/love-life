@@ -25,6 +25,8 @@ To run:
 npm install babe --save
 await God.sendTheOne({location: near, specs: Proverbs31});
 
+```
+
 ---
 ## 💖 Features
 
@@ -63,6 +65,7 @@ await God.sendTheOne({location: near, specs: Proverbs31});
 if (you === 'theOne') {
   console.log("I’ll commit to you forever ❤️");
 }
+```
 
 ---
 
@@ -85,7 +88,7 @@ if (you === 'theOne') {
 ```bash
 const futureWife = await God.preparePartner();
 loveLife.deploy(futureWife);
-
+```
 ---
 
 ## License
